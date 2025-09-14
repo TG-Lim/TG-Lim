@@ -1,16 +1,32 @@
-## Hi there 👋
+# Taegyu Lim
 
-<!--
-**TG-Lim/TG-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Taegyu (Tony) Lim. I'm interested in AI + X (Domain). Nowdays, I'm working in Hankook Tire & Technology, one of global leadning company in tire industry. In this company, I develop AI related to Tire. In recent days, I'm interested in PINN(Physical Informed Neural Networks), Blackbox function Optimization with Bayesian Optimization or Diffusion Algorithm and Mechanical Engineering related LLM or LMM.
 
-Here are some ideas to get you started:
+## Career
+Hankook Tire & Technology (2025.08 - )
+- Mechanical Engineering + AI. Especially Tire related AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Leaders Associates Co.
+- AI + Consumer Analysis, Marketing
+- Building consumer opinion crawler 50x faster than Selenium
+- Consumer reaction trend analysis with LLM + Embedding Model
+- AI-driven optimal pricing for new sunscreen products
+
+## Educations
+
+M.S: Industrial & Management Engineering in Pohang University of Science and Technology  
+Supervisor: Prof. Duck-Young Kim
+2023.02 - 2025.02
+- Research Topic: Rapid Deep Learning based Transfer Learning for limited data
+- Data Analytics for Manufacturing data
+
+B.S: Mechanical Engineering & Physics in Yeungnam University
+2017.02 - 2023.02
+- National Presidental Science Scholarship (2021, Third-year student)
+
+## Tech Stack
+AI/ML: Pytorch, Scikit-learn, xgboost, catboost  
+Optimization: ortools, hyperopt  
+Database: Oracle DB, Qdrant, Maria DB  
+Web/UI: Flutter  
+API Server: Django Restframework, Flask  
