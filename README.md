@@ -6,7 +6,7 @@ Hi, I'm Taegyu (Tony) Lim. I'm interested in AI + X, especially for Mechanical E
 Hankook Tire & Technology (2025.08 - )
 - Mechanical Engineering + AI. Especially Tire related AI/ML
 
-Leaders Associates Co.
+Leaders Associates Co. (2025.02 - 2025.07)
 - AI + Consumer Analysis, Marketing
 - Building consumer opinion crawler 50x faster than Selenium
 - Consumer reaction trend analysis with LLM + Embedding Model
