@@ -1,6 +1,6 @@
 # Taegyu Lim
 
-Hi, I'm Taegyu (Tony) Lim. I'm interested in AI + X (Domain). Nowdays, I'm working in Hankook Tire & Technology, one of global leadning company in tire industry. In this company, I develop AI related to Tire. In recent days, I'm interested in PINN(Physical Informed Neural Networks), Blackbox function Optimization with Bayesian Optimization or Diffusion Algorithm and Mechanical Engineering related LLM or LMM.
+Hi, I'm Taegyu (Tony) Lim. I'm interested in AI + X, especially for Mechanical Engineering or Physics. Nowdays, I'm working in Hankook Tire & Technology, one of global leadning company in tire industry. In this company, I develop AI related to Tire for tire development. In recent days, I'm interested in PINN(Physical Informed Neural Networks), Blackbox function Optimization with Bayesian Optimization or Diffusion Algorithm, Mechanical Engineering related LLM or LMM.
 
 ## Career
 Hankook Tire & Technology (2025.08 - )
