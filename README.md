@@ -25,7 +25,10 @@ B.S: Mechanical Engineering & Physics in Yeungnam University
 - National Presidental Science Scholarship (2021, Third-year student)
 
 ## Tech Stack
-AI/ML: Pytorch, Scikit-learn, xgboost, catboost  
+AI/ML
+- Deep Learning frameworks: Pytorch, Transformers
+- Quantization: llama.cpp
+- ML Algorithm: Scikit-learn, catboost, xgboosts
 Optimization: ortools, hyperopt  
 Database: Oracle DB, Qdrant, Maria DB  
 Web/UI: Flutter  
