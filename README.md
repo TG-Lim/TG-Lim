@@ -25,4 +25,4 @@ M.S: Industrial & Management Engineering in Pohang University of Science and Tec
 
 B.S: Mechanical Engineering & Physics in Yeungnam University
 2017.02 - 2023.02
-- National Presidental Science Scholarship (2021, Third-year student)
+- National Presidental Science Scholarship (2021, Junior student)
