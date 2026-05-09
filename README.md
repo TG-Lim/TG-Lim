@@ -1,6 +1,6 @@
 # Taegyu Lim
 
-Work with Tabular ML, Physical - Virtual alignment. 
+Work hard on Tabular ML, Physical - Virtual alignment. 
 
 ## Topic of interests  
 - Physical Informed Machine Learning
