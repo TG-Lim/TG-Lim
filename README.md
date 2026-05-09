@@ -1,9 +1,10 @@
 # Taegyu Lim
 
-Work with Tabular ML, Physical - Virtual alignment.  
-Topic of interests  
+Work with Tabular ML, Physical - Virtual alignment. 
+
+## Topic of interests  
 - Physical Informed Machine Learning
-- Tabular Machine Learning Methods(Regression, Augmentation)
+- Transfer Learning
 - LLM based AI Agent
 - Knowledge, Ontology & prediction model combination
 
